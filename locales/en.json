@@ -1,0 +1,16 @@
+{
+  "login": {
+    "password": "Password",
+    "sign_in": "Sign In",
+    "r_text": "Are you not registered yet?",
+    "r_text_": "Sign Up!"
+  },
+  "register": {
+    "name_surname": "Name Surname",
+    "password": "Password",
+    "password_again": "Again Password",
+    "sign_up": "Sign Up",
+    "l_text": "Are you registered with the app? ",
+    "l_text_": "Sign In!"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "login": {
+    "password": "Şifre",
+    "sign_in": "Giriş Yap",
+    "r_text": "Henüz kayıtlı değil misiniz? ",
+    "r_text_": "Kayıt Ol!"
+  },
+  "register": {
+    "name_surname": "Ad Soyad",
+    "password": "Şifre",
+    "password_again": "Şifre Tekrar",
+    "sign_up": "Kayıt Ol",
+    "l_text": "Uygulamaya kayıtlı mısınız? ",
+    "l_text_": "Giriş Yap!"
+  }
+}
